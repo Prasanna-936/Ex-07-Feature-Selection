@@ -1,4 +1,8 @@
 # Ex-07-Feature-Selection
+DATE :
+GITHUB LINK :https://github.com/Prasanna-936/Ex-07-Feature-Selection
+COLAB LINK:https://colab.research.google.com/drive/1VO1F6aqDAfUGtJu2mwyhL6TnuzeQfyRp?authuser=1
+
 ## AIM
 To Perform the various feature selection techniques on a dataset and save the data to a file. 
 
